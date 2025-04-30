@@ -1,0 +1,31 @@
+img{
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+    display: block;
+}
+
+main{
+    padding: 10px;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+input{
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#mealPlan{
+    margin-top: 40px;
+}
+
+#submitButton, #genMealButton{
+    background-color: #1c3e6b;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
